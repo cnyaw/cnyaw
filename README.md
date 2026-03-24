@@ -13,7 +13,7 @@ My projects are nodes in a single, coherent vision: **Smallworld = A system for 
 * **[sw2 (Smallworld2)](https://github.com/cnyaw/sw2)**: The **Communication Model**. Defines how state is consistently synchronized across distributed nodes.
 * **[good (Generic Object Oriented Design)](https://github.com/cnyaw/good)**: The **Representation Model**. An abstraction layer that translates state into visual and interactive cross-platform entities.
 * **[Nature Online](https://smallworld.idv.tw/game/nature/)**: The **Evolution Model**. A massive-scale simulation where states evolve autonomously through biological and genetic algorithms.
-* **[KDP (Knowledge Distillation)] **: The **Cognitive Model**. My current focus on extracting and structuring state from unstructured information (Knowledge Graphs & AI Agents).
+* **KDP (Knowledge Distillation Process)**: The **Cognitive Model**. My current focus on extracting and structuring state from unstructured information (Knowledge Graphs & AI Agents).
 
 ---
 
