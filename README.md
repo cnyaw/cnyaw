@@ -1,4 +1,4 @@
-# 🚀 Wayne Cheng (cnyaw) | Research Engineer & Systems Architect
+# 🚀 Waync Cheng (cnyaw) | Research Engineer & Systems Architect
 
 > **"每天進步一點點" (Continuous improvement through structural compounding.)**
 
