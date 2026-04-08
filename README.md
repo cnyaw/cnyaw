@@ -1,6 +1,6 @@
 # 🚀 Waync Cheng (cnyaw) | Research Engineer & Systems Architect
 
-> **"每天進步一點點" (Continuous improvement through structural compounding.)**
+> **"每天進步一點點" (Improve a little more every day.)**
 
 I am a research-oriented developer dedicated to a singular pursuit for over 20 years: **The Quest for a Unified State Model.** I build from scratch—not for the sake of "reinventing the wheel," but to ensure **Absolute Understandability**. My work is a long-term experiment in defining how "state" can be described, transmitted, and evolved consistently across diverse systems without the interference of "black-box" frameworks.
 
